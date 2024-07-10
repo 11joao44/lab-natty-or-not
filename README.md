@@ -20,22 +20,35 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Fazer tarefas usando IAs Generativas Gratuitas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto demonstra como utilizar tecnologias de inteligência artificial generativa gratuitas para realizar tarefas e criar conteúdos realistas e envolventes. O objetivo é explorar a eficiência e criatividade proporcionada por essas ferramentas sem incorrer em custos adicionais.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** (versão gratuita) para roteirização e criação de textos.
+- IA Generativa **[Craiyon](https://www.craiyon.com)** (antigo DALL-E Mini) para criação de imagens a partir de descrições textuais.
+- **[Google Text-to-Speech](https://cloud.google.com/text-to-speech)** para sintetização de voz.
+- **[DeepFaceLab](https://github.com/iperov/DeepFaceLab)** para criação de vídeos realistas.
+- Software de edição de vídeo **[DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)** para edição de vídeos.
+- Software de edição de áudio **[Audacity](https://www.audacityteam.org)** para edição de áudios.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Roteirização e Criação de Textos**: Utilizei o ChatGPT para escrever e revisar os roteiros e descrições detalhadas dos conteúdos.
+2. **Criação de Imagens**: Usei o Craiyon para gerar imagens realistas baseadas nas descrições textuais fornecidas pelo roteiro.
+3. **Criação de Áudios**: O Google Text-to-Speech foi utilizado para gerar narrações realistas, e o Audacity para editar os áudios, adicionando efeitos sonoros e música de fundo.
+4. **Criação de Vídeos**: Utilizei o DeepFaceLab para criar vídeos realistas e, em seguida, editei os vídeos no DaVinci Resolve para adicionar efeitos visuais e transições.
+5. **Combinação e Edição Final**: Combinei os elementos visuais e auditivos usando o DaVinci Resolve, e utilizei o Canva para criar composições visuais adicionais e elementos gráficos.
+6. **Publicação**: Distribuí o conteúdo final nas plataformas desejadas, como YouTube e redes sociais.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os conteúdos criados foram altamente realistas e envolventes, destacando a capacidade das IAs generativas gratuitas para realizar tarefas complexas de forma criativa e eficiente. A integração de textos, imagens, áudios e vídeos resultou em produções de alta qualidade que capturaram a atenção e a imaginação do público.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+[LINK PARA O CONTEÚDO AQUI]()
+
+## 💭 Reflexão
+Este projeto evidenciou o poder e a acessibilidade das IAs generativas gratuitas, mostrando que é possível criar conteúdos impressionantes sem custos elevados. Foi uma experiência enriquecedora que ampliou as possibilidades criativas e demonstrou o potencial transformador dessas tecnologias na produção de mídia.
+
 ```
 
 ### Exemplos e Insigths
